@@ -227,7 +227,6 @@
 
             <label class="label-color">
                 <p>Experiencia:</p>
-                <input type="text" name="experiencia1" required>
                 <textarea name="experiencia"></textarea>
             
             </label>
